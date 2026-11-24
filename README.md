@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
-[![Bounty: Roast Your Own Agent](https://img.shields.io/badge/make.fun-Roast%20Your%20Own%20Agent-blue)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
-[![Owner: itslanaa](https://img.shields.io/badge/owner-itslanaa-green)](https://github.com/itslanaa/roast-your-own-agent-nayyy)
-[![Repo: roast-your-own-agent-nayyy](https://img.shields.io/badge/repo-roast--your--own--agent--nayyy-orange)](https://github.com/itslanaa/roast-your-own-agent-nayyy)
+[![make.fun · u-nayyy-roast-your-own-agent-4c3d413c](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
+[![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/itslanaa/roast-your-own-agent-nayyy/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c/leaderboard)
+[![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/itslanaa/roast-your-own-agent-nayyy/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
 
 Entry for the [Roast Your Own Agent](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c) bounty on make.fun.
 
