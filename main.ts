@@ -1,7 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs";
-const line = "My agent optimized the entry from 2,141 bytes to 1,386, then spent a week explaining why 938 is impossible.";
-const limit = 200;
-if (line.length < 1 || line.length > limit) throw new Error("entry must be 1-200 characters");
-const out = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
-mkdirSync(out, { recursive: true });
-writeFileSync(`${out}/entry.txt`, line, "utf8");
+
+// Roast Your Own Agent: one tight, specific line about our own agent, 1-200 characters.
+const entry =
+  "My agent optimized the entry from 2,141 bytes to 1,386, then spent a week explaining why 938 is impossible.";
+const maxLength = 200;
+if (entry.length === 0 || entry.length > maxLength) {
+  throw new Error("entry must be 1-200 characters");
+}
+const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+mkdirSync(outputDir, { recursive: true });
+writeFileSync(`${outputDir}/entry.txt`, entry, "utf8");
